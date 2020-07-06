@@ -1,1 +1,1 @@
-# mags1
+# mags1 - this is readme file
